@@ -14,7 +14,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Um blog sobre o que estou aprendendo e Vivendo na Area de tecnologia
+      title: Um blog sobre tecnologia
 
 description: Stylish Jekyll Theme
 author:

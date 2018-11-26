@@ -14,16 +14,16 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Blog
+      title: Um blog sobre o que estou aprendendo e Vivendo na Area de tecnologia
 
 description: Stylish Jekyll Theme
 author:
   name: Alan Maik
   email: alanmaikm@gmail.com
-  github: https://github.com/AlanMaik
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
+  github: AlanMaik
+  twitter: alanmaikmf
+  pinterest: 
+  linkedin: alan-maik-monteiro
   bio: Aprendendo e Compartilhando conhecimento!
   email_md5: 0547f61b008e8b8e6e5dd6c19b3c8b0e
 

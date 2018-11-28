@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Ruby uma Simples e elegante Linguagem
-categories: [general, demo]
-tags: [demo, dbyll, dbtek]
-description: Aprendendo Ruby.
+title: Olá,mundo
+categories: [general]
+tags: [apresentação]
+description: Um pouco sobre mim.
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Olá mundo Me chamo Alan Maik, Sou Analista de Sistemas de formação e apaixonado por desenvolvimento de Software, por meio desse blog vou compartilhar minhas experiencias nesse mundo da Tecnologia, um pouco sobre TDD,Ruby,Python e etc.
 
 {% highlight ruby %}
 def foo
